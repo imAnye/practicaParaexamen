@@ -1,0 +1,15 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
+}
+/* 1rem= 10px  con la configuracion del html y el body*/
+h1{
+    color: rgb(22, 20, 5);
+    text-align: center;
+    font-size: 2.8rem;
+}
+span{
+    font-size: 2rem;
+}
